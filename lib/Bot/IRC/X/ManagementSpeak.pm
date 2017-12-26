@@ -1,7 +1,7 @@
 package Bot::IRC::X::ManagementSpeak;
 # ABSTRACT: Bot::IRC plugin for rendering management-speak
 
-use 5.012;
+use 5.014;
 use strict;
 use warnings;
 
