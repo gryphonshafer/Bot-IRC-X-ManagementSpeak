@@ -6,8 +6,8 @@ Bot::IRC::X::ManagementSpeak - Bot::IRC plugin for rendering management-speak
 
 version 1.02
 
-[![Build Status](https://travis-ci.org/gryphonshafer/Bot-IRC-X-ManagementSpeak.svg)](https://travis-ci.org/gryphonshafer/Bot-IRC-X-ManagementSpeak)
-[![Coverage Status](https://coveralls.io/repos/gryphonshafer/Bot-IRC-X-ManagementSpeak/badge.png)](https://coveralls.io/r/gryphonshafer/Bot-IRC-X-ManagementSpeak)
+[![build](https://github.com/gryphonshafer/Bot-IRC-X-ManagementSpeak/workflows/build/badge.svg)](https://github.com/gryphonshafer/Bot-IRC-X-ManagementSpeak/actions?query=workflow%3Abuild)
+[![codecov](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-ManagementSpeak/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-ManagementSpeak)
 
 # SYNOPSIS
 
@@ -20,7 +20,7 @@ version 1.02
 
 # DESCRIPTION
 
-This [Bot::IRC](https://metacpan.org/pod/Bot::IRC) plugin is for rendering management-speak.
+This [Bot::IRC](https://metacpan.org/pod/Bot%3A%3AIRC) plugin is for rendering management-speak.
 
     <bot> mspeak
 
@@ -28,13 +28,11 @@ This [Bot::IRC](https://metacpan.org/pod/Bot::IRC) plugin is for rendering manag
 
 You can look for additional information at:
 
-- [Bot::IRC](https://metacpan.org/pod/Bot::IRC)
+- [Bot::IRC](https://metacpan.org/pod/Bot%3A%3AIRC)
 - [GitHub](https://github.com/gryphonshafer/Bot-IRC-X-ManagementSpeak)
-- [CPAN](http://search.cpan.org/dist/Bot-IRC-X-ManagementSpeak)
 - [MetaCPAN](https://metacpan.org/pod/Bot::IRC::X::ManagementSpeak)
-- [AnnoCPAN](http://annocpan.org/dist/Bot-IRC-X-ManagementSpeak)
-- [Travis CI](https://travis-ci.org/gryphonshafer/Bot-IRC-X-ManagementSpeak)
-- [Coveralls](https://coveralls.io/r/gryphonshafer/Bot-IRC-X-ManagementSpeak)
+- [GitHub Actions](https://github.com/gryphonshafer/Bot-IRC-X-ManagementSpeak/actions)
+- [Codecov](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-ManagementSpeak)
 - [CPANTS](http://cpants.cpanauthors.org/dist/Bot-IRC-X-ManagementSpeak)
 - [CPAN Testers](http://www.cpantesters.org/distro/T/Bot-IRC-X-ManagementSpeak.html)
 
@@ -44,7 +42,7 @@ Gryphon Shafer <gryphon@cpan.org>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2018 by Gryphon Shafer.
+This software is copyright (c) 2021 by Gryphon Shafer.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
