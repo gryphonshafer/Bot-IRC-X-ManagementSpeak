@@ -6,7 +6,7 @@ Bot::IRC::X::ManagementSpeak - Bot::IRC plugin for rendering management-speak
 
 version 1.02
 
-[![build](https://github.com/gryphonshafer/Bot-IRC-X-ManagementSpeak/workflows/build/badge.svg)](https://github.com/gryphonshafer/Bot-IRC-X-ManagementSpeak/actions?query=workflow%3Abuild)
+[![test](https://github.com/gryphonshafer/Bot-IRC-X-ManagementSpeak/workflows/test/badge.svg)](https://github.com/gryphonshafer/Bot-IRC-X-ManagementSpeak/actions?query=workflow%3Atest)
 [![codecov](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-ManagementSpeak/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-ManagementSpeak)
 
 # SYNOPSIS
